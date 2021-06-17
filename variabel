@@ -1,0 +1,9 @@
+Main() {
+int angka1 = 80;
+double angka2 = 20.4;
+string nama = "M Ikhsan Sirait";
+
+print (angka1);
+print (angka2);
+print (angka3);
+}
